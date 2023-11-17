@@ -1,0 +1,33 @@
+legend{
+    width: 97%;
+}
+
+form{
+    font-family: SVN-Gotham;
+}
+
+#dangky a{
+    text-decoration: none;
+    color:  rgba(138,109,59,255);
+}
+
+.dangky{
+    width: 50%;
+    margin-left: 36%;
+    margin-top: 10px;
+}
+#Save {
+    color: white;
+    background-color: black;
+    width: 100%;
+    font-weight: bold;
+    border: none;
+}
+#Login{
+    color: white;
+     background-color: black; 
+     width: 50%; font-weight: bold; 
+     border: none; 
+     margin-left: 25%;
+}
+
